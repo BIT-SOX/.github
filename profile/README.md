@@ -23,16 +23,17 @@ Convertirnos en la empresa de software más confiable y preferida, facilitando e
 
 - PRINCIPAL WEBSITE
   
-  - [Concepto web](https://github.com/BIT-SOX/Documentation/blob/main/principal_website/concepto_web.md)
+  - [Concepto web](https://github.com/BIT-SOX/Documentation/blob/master/principal_website/concepto_web.md)
   
-  - [Composición documentaria](https://github.com/BIT-SOX/Documentation/blob/main/principal_website/composition_documentary.md)
+  - [Composición documentaria](https://github.com/BIT-SOX/Documentation/blob/master/principal_website/composition_documentary.md)
 
-- [Listado de Proyectos](https://github.com/BIT-SOX/Documentation/blob/main/PROYECTOS/list_PROYECTOS.md)
+- [Listado de Proyectos](https://github.com/BIT-SOX/Documentation/blob/master/PROYECTOS/list_PROYECTOS.md)
 
 ---
 
 ## 😃Colaboradores
 
+<div align="center">
 <table>
     <tbody>
         <tr>
@@ -81,9 +82,10 @@ Convertirnos en la empresa de software más confiable y preferida, facilitando e
         </tr>
     </tbody>
 </table>
+<div>
 
-#### 🗺 Nuestros Socios
+## 🗺 Nuestros Socios
 
 <div align="center">
-    <img width="300" src="https://github.com/BIT-SOX/Documentation/blob/main/img_repo/MAMUSKUA/logo-horizontal.png" />
+    <img width="300" src="https://github.com/BIT-SOX/Documentation/blob/master/img_repo/MAMUSKUA/logo-horizontal.png" />
 </div>
