@@ -1,9 +1,15 @@
 <h1 align="center">BIT SOX</h1>
+
 <p align="center">Consultora de software</p>
 <hr>
-<div>
-    <img alt="Discord" src="https://img.shields.io/discord/1229255231376724109?style=for-the-badge&logo=discord&logoSize=m&label=NUESTRO%20DISCORD&color=%23fff&link=https%3A%2F%2Fdiscord.com%2Fchannels%2F1229255231376724109%2F1229255231376724112">
-</div>
+
+<p align="center">
+    <a href="https://discord.gg/vBQ8yG4H">
+        <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
+    </a>
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</p>
 
 #### 🚀 Sobre Nosotros
 
@@ -30,6 +36,16 @@ Convertirnos en la empresa de software más confiable y preferida, facilitando e
 - [Listado de Proyectos](https://github.com/BIT-SOX/Documentation/blob/master/PROYECTOS/list_PROYECTOS.md)
 
 ---
+
+## 🛠️ Nuestra Tecnologías
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,angular,dotnet,cpp,aws,azure,github"/>
+    <br/>
+    <img src="https://skillicons.dev/icons?i=wordpress,selenium,mysql,laravel,jest,java,figma,cs" />
+  </a>
+</p>
 
 ## 😃Colaboradores
 
