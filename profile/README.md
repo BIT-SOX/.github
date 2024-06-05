@@ -1,9 +1,6 @@
-<h1 align="center">BIT SOX</h1>
+<img src="https://github.com/BIT-SOX/Documentation/blob/master/img_repo/BIT%20SOX/Banners/Banner%20Linkedink.jpg" />
 
-<p align="center">Consultora de software</p>
-<hr>
-
-<p align="center">
+<p align="right">
     <a href="https://discord.gg/vBQ8yG4H">
         <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
