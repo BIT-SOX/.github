@@ -87,9 +87,16 @@ Convertirnos en la empresa de software más confiable y preferida, facilitando e
             </td>
             <td align="center" valign="top" width="14.28%">
                 <a href="https://github.com/kharoldcanova">
-                    <img alt="Álvaro Cotrina" width="100px" src="https://avatars.githubusercontent.com/u/68479534?v=4"/>
+                    <img alt="Kharol Canova" width="100px" src="https://avatars.githubusercontent.com/u/68479534?v=4"/>
                     <br/>
                     <sub><b>Kharold Canova</b></sub>
+                </a>
+            </td>
+            <td align="center" valign="top" width="14.28%">
+                <a href="https://github.com/Narmes">
+                    <img alt="Marlo Castillo" width="100px" src="https://avatars.githubusercontent.com/u/62951770?v=4"/>
+                    <br/>
+                    <sub><b>Marlo Castillo</b></sub>
                 </a>
             </td>
         </tr>
